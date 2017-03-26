@@ -1,0 +1,12 @@
+TEST SCENARIO
+converged after 4 cycles
+{0: [1], 1: [1], 2: [1], 3: [1], 4: [1], 5: [1], 6: [2], 7: [2], 8: [2], 9: [2], 10: [6], 11: [8], 12: [12], 13: [13], 14: [15], 15: [23], 16: [53, 53, 53], 17: [46, 46, 46]}
+Naive total stake 351
+Optimized total stake 251
+--------------------------------------------------
+ETH SCENARIO
+converged after 5 cycles
+Naive total stake 23356085.5039
+Optimized total stake 19320536.3658
+% stake loss due to optimization 17.278362581
+
